@@ -1,1 +1,3 @@
 # WordFuck
+
+## What is WordFuck?
