@@ -90,8 +90,6 @@ for letter in letters:
 
 ststrgf.close()
 
-
-
 f = open('ststrgf.txt', "r")
 f_contents = f.read()
 print("\n","\n",f_contents)
